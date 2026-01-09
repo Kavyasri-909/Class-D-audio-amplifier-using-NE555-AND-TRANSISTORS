@@ -1,0 +1,5 @@
+NC DRILL FILE :- NC Drill file is a file format used to control CNC drilling machines 🤖. It contains instructions for drilling holes in a PCB, specifying:
+
+- Hole locations (X, Y coordinates)
+- Hole sizes
+- Drill bit sizes
