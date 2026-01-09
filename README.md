@@ -10,7 +10,7 @@ PWM Generation (Comparator + Carrier)
 
 Power Switching Stage (MOSFET Half-Bridge)
 
-Output LC Filter & Load
+2.Output LC Filter & Load
 Audio Input (V1)
 
 V1 is a sine wave source representing the audio input signal.
